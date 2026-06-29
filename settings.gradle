@@ -1,0 +1,3 @@
+rootProject.name = 'rabbitmq-in-action'
+include 'consumer'
+include 'publisher'
